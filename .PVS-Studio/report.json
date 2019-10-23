@@ -1,0 +1,14 @@
+{
+  "warnings": [
+    {
+      "code": "",
+      "cwe": 0,
+      "level": 1,
+      "positions": [],
+      "message": "No sources were found.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    }
+  ]
+}
