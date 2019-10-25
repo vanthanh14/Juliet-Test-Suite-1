@@ -30,6 +30,6 @@ You can learn how to use this tool in here: https://www.jarchitect.com/GettingSt
   - Low: 117
 - Time to test: 30 minutes
 ```
-![result](/ex1.PNG)   
-![result2](/ex2.PNG)  
+![result](/ex1.png)   
+![result2](/ex2.png)  
 
