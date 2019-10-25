@@ -19,3 +19,17 @@ Kritika.IO integrates with GitHub, BitBucket and GitLab. So you can use Kritika 
 ![example2](/example2.PNG)  
 *Notice*  
 ![example3](/example3.PNG)  
+## 2. JArchitect (https://www.jarchitect.com)
+An excellent tool which makes analyzing Java code simple and easier supports for Code Query over LINQ, provides a number of code metrics, allows code comparison between builds and comes with a very good customizable reporting feature.  
+You can learn how to use this tool in here: https://www.jarchitect.com/GettingStarted  
+**Result of testing :**
+```
+- Found 25.6K Issues in 28K Files
+  - High: 48
+  - Medium: 256100
+  - Low: 117
+- Time to test: 7 hours
+```
+![result](/ex1.PNG)   
+![result2](/ex2.PNG)  
+
